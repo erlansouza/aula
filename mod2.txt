@@ -1,3 +1,7 @@
 Modificação do no branch teste
 
 modificação
+
+alteração antes do merg
+
+conflito resolvido
